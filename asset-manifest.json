@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.ae796722.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.43f84170.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.43f84170.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.e8b1c3f7.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.e8b1c3f7.js.map",
+    "static/css/2.95c3447f.chunk.css": "/MyPortfolio/static/css/2.95c3447f.chunk.css",
+    "static/js/2.42308fd5.chunk.js": "/MyPortfolio/static/js/2.42308fd5.chunk.js",
+    "static/js/2.42308fd5.chunk.js.map": "/MyPortfolio/static/js/2.42308fd5.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "static/css/2.95c3447f.chunk.css.map": "/MyPortfolio/static/css/2.95c3447f.chunk.css.map",
+    "static/css/main.ae796722.chunk.css.map": "/MyPortfolio/static/css/main.ae796722.chunk.css.map",
+    "static/js/2.42308fd5.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.42308fd5.chunk.js.LICENSE.txt",
+    "static/media/Computer.29fd5f59.png": "/MyPortfolio/static/media/Computer.29fd5f59.png",
+    "static/media/PythonLog.91fe66c9.png": "/MyPortfolio/static/media/PythonLog.91fe66c9.png",
+    "static/media/App.css": "/MyPortfolio/static/media/left-arrow-arrows-svgrepo-com.38abc065.svg",
+    "static/media/design.0a489342.jpg": "/MyPortfolio/static/media/design.0a489342.jpg",
+    "static/media/fast-arrow-down-svgrepo-com.9ded3f0b.svg": "/MyPortfolio/static/media/fast-arrow-down-svgrepo-com.9ded3f0b.svg",
+    "static/media/favIot.bc8f7738.png": "/MyPortfolio/static/media/favIot.bc8f7738.png",
+    "static/media/hexa.7dfd1a6b.png": "/MyPortfolio/static/media/hexa.7dfd1a6b.png",
+    "static/media/like.600eddce.png": "/MyPortfolio/static/media/like.600eddce.png",
+    "static/media/school.334964d6.svg": "/MyPortfolio/static/media/school.334964d6.svg",
+    "static/media/table.29147a23.jpg": "/MyPortfolio/static/media/table.29147a23.jpg",
+    "static/media/work.f61a7713.svg": "/MyPortfolio/static/media/work.f61a7713.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8b1c3f7.js",
+    "static/css/2.95c3447f.chunk.css",
+    "static/js/2.42308fd5.chunk.js",
+    "static/css/main.ae796722.chunk.css",
+    "static/js/main.43f84170.chunk.js"
+  ]
+}
